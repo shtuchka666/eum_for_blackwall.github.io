@@ -164,7 +164,7 @@ body{
   margin: 0 auto auto auto;
   text-align: center;
 }
-.text_s3{
+.text__s3{
   font-size: 16px;
   line-height: 30px;
   max-width: 542px;
@@ -199,7 +199,7 @@ body{
   line-height: 29px;
   margin-bottom: 12px;
 }
-.text_s3-add{
+.text__s3-add{
   font-size: 16px;
   line-height: 26px;
 }
@@ -259,7 +259,7 @@ body{
   .head__s3-add{
     font-size: 20px;
   }
-  .text_s3-add{
+  .text__s3-add{
     font-size: 14px;
     line-height: 22px;
   }
@@ -364,7 +364,7 @@ body{
     font-size: 36px;
     line-height: 44px;
   }
-  .text_s3{
+  .text__s3{
     line-height: 28px;
     max-width: 542px;
   }
@@ -380,7 +380,7 @@ body{
     font-size: 18px;
     margin-bottom: 8px;
   }
-  .text_s3-add{
+  .text__s3-add{
     font-size: 14px;
     line-height: 22px;
   }
@@ -393,7 +393,7 @@ body{
  body{
    max-width: 350px;
  }
- .menu-main, .menu-add, .button_download, .text_s3-del{
+ .menu-main, .menu-add, .button_download, .text__s3-del{
    display: none;
  }
  .header{
@@ -539,7 +539,7 @@ body{
    line-height: 24px;
    letter-spacing: -1px;
  }
- .text_s3{
+ .text__s3{
    font-size: 14px;
    line-height: 20px;
    max-width: 345px;
@@ -579,7 +579,7 @@ body{
    margin-bottom: 8px;
    height: 150px;
  }
- .text_s3-add{
+ .text__s3-add{
    font-size: 14px;
    line-height: 24px;
  }
